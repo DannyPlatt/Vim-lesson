@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 // from this point on, you will not use arrowKeys, nor your mouse
 //
 //                      k
@@ -97,3 +97,10 @@ void visual(){
 //
 // once inside, use <ctrl_]> to traverse the tags/links
 // use <ctrl_o> to go back a page
+//
+// ##### DELETION ##### 
+// to delete this write protected file from your computer, go back to the command line
+// step back one directory (folder)
+// ensure Vim-lesson is with your current folder
+// type:
+//      "rm Vim-lesson -r -f" and hit <enter>
